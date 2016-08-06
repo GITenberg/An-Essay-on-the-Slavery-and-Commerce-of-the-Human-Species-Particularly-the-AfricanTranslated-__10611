@@ -1,0 +1,35 @@
+_repo: An-Essay-on-the-Slavery-and-Commerce-of-the-Human-Species-Particularly-the-AfricanTranslated-__10611
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clarkson, Thomas
+    alias: Clarkson, T. (Thomas)
+    birthdate: 1760
+    deathdate: 1846
+    gutenberg_agent_id: '3503'
+    url: http://www.gutenberg.org/2009/agents/3503
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Clarkson
+description: Part I. The history of slavery -- pt. II. The African commerce or slave-trade
+  -- pt. III. The slavery of the Africans in the European colonies.
+gutenberg_bookshelf:
+- Africa
+- Slavery
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HT'
+- !lcsh 'Slavery -- History'
+- !lcsh 'Slave trade -- Africa'
+- GITenberg
+title: 'An Essay on the Slavery and Commerce of the Human Species, Particularly the
+  African
+
+  Translated from a Latin Dissertation, Which Was Honoured with the First Prize in
+  the University of Cambridge, for the Year 1785, with Additions'
+url: http://www.gutenberg.org/ebooks/10611
